@@ -4,6 +4,7 @@
 """
 #Say "Hello, World!" With Python
 print("Hello, World!")
+
 #Python If-Else
 if __name__ == '__main__':
     n = int(input().strip())
@@ -11,6 +12,7 @@ if __name__ == '__main__':
         print("Weird")
     if ((n%2==0)and(2<=n<=5))or((n%2==0)and(n>20)):
         print("Not Weird")
+        
 #Text Wrap
 import textwrap
 def wrap(text, max_width):
@@ -23,6 +25,7 @@ if __name__ == '__main__':
     string, max_width = input(), int(input())
     result = wrap(string, max_width)
     print(result)
+    
 #Find a string
 def count_substring(string, sub_string):
     i=0
@@ -39,6 +42,7 @@ if __name__ == '__main__':
     sub_string = input().strip() 
     count = count_substring(string, sub_string)
     print(count)
+    
 #What's Your Name?
 def print_full_name(first, last):
     print("Hello "+first+" "+last+"! You just delved into python.")
@@ -46,6 +50,7 @@ if __name__ == '__main__':
     first_name = input()
     last_name = input()
     print_full_name(first_name, last_name)
+    
 #sWAP cASE
 def swap_case(s):
     cadena=""
@@ -55,7 +60,6 @@ def swap_case(s):
         else:
             cadena+=letra.lower()
     return(cadena)
-
 if __name__ == '__main__':
     s = input()
     result = swap_case(s)
@@ -67,17 +71,20 @@ if __name__ == '__main__':
     for i in range(1,n+1):
         numero+=str(i)
     print(numero)
+    
 #Loops
 if __name__ == '__main__':
     n = int(input())
     for i in range(n):
         print(i**2)
+        
 #Python: Division
 if __name__ == '__main__':
     a = int(input())
     b = int(input())
     print(a//b)
     print(a/b)
+    
 #Arithmetic Operators
 if __name__ == '__main__':
     a = int(input())
