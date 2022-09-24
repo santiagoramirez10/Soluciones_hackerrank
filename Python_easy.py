@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Sep 24 11:57:11 2022
-
 @author: Santiago Ramirez
 """
 #Say "Hello, World!" With Python
