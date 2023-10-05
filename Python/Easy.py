@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: Santiago Ramirez
+@author: Santiago Ramirez Pérez
 """
 #Say "Hello, World!" With Python
 print("Hello, World!")
@@ -64,7 +64,6 @@ if __name__ == '__main__':
     s = input()
     result = swap_case(s)
     print(result)
-    
 #Print Function
 if __name__ == '__main__':
     n = int(input())

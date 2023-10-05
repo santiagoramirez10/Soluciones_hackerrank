@@ -1,1 +1,0 @@
-Soluciones de los diferentes retos de la página Hackerrank. Aquí encontrarás mi perfil de la página y mis retos solucionados: https://www.hackerrank.com/santiagoramirez8
