@@ -1,10 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-@author: Santiago Ramirez Pérez
-"""
 #Say "Hello, World!" With Python
 print("Hello, World!")
-
 #Python If-Else
 if __name__ == '__main__':
     n = int(input().strip())
