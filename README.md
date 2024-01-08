@@ -17,4 +17,5 @@
 <ul>
     <li><a href="https://github.com/santiagoramirez10/Soluciones_hackerrank/tree/main/Java">Soluciones de Java.</a></li>
     <li><a href="https://github.com/santiagoramirez10/Soluciones_hackerrank/tree/main/Python">Soluciones de Python.</a></li>
+    <li><a href="https://github.com/santiagoramirez10/Soluciones_hackerrank/tree/main/SQL">Soluciones de SQL.</a></li>
 </ul>
